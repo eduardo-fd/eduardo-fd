@@ -1,6 +1,5 @@
-## Hi there 👋
-
-My name is Eduardo, and I'm an economist interested in all things Python & Data Science!
+## Hi 👋, I'm Eduardo
+And I'm an economist interested in all things Python & Data Science!
 
 - 🔭 I’m currently working on earning my Microsoft PL-300 certification to become a Microsoft Certified Power BI Data Analyst.
 - 🌱 I recently built an end-to-end credit risk project (SBA loans), delivering a logistic regression PD model (AUC=0.865, KS=0.632) and an executive Power BI dashboard for decision-making that you can check it out [here](https://github.com/eduardo-fd/Small-Business-Credit-Risk).

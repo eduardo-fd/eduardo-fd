@@ -26,5 +26,6 @@ I turn messy data into clear, decision-ready insights. End-to-end: **ETL → mod
 ## Toolbox
 SQL (joins, CTEs, windows) · Python (pandas, scikit-learn) · Power BI (DAX, Power Query) · Tableau · Econometrics · Git/GitHub
 
+## Contact
 I’m looking to collaborate on data analytics and visualization projects, and connect with people to share this journey.
   - 💬 Feel free to connect with me on LinkedIn and reach out anytime!

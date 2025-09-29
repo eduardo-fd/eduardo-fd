@@ -1,11 +1,6 @@
 ## Hi 👋, I'm Eduardo
 I turn messy data into clear, decision-ready insights. End-to-end: **ETL → model → dashboard**.
 
-## Quick Facts
-- Economics + hands-on accounting background
-- Calm under pressure, fast learner, team-oriented
-- Open to Junior Data/Business Analyst roles (Barcelona/Hybrid/Remote)
-
 ## Featured Projects
 - **Credit Risk Scoring (300k+ loans)**  
   Logistic PD model (**AUC 0.865, KS 0.632**); export deciles to BI and define cut-offs to balance review cost vs risk.  

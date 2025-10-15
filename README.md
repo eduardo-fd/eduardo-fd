@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Eduardo
-I turn messy data into clear, decision-ready insights. End-to-end: **ETL → model → dashboard**.
+I turn messy data into clear, decision-ready insights.
 
 ## Featured Projects
 - **Credit Risk Scoring (300k+ loans)**  
@@ -19,7 +19,7 @@ I turn messy data into clear, decision-ready insights. End-to-end: **ETL → mod
 - **Act:** Recommend decisions, implement cut-offs/alerts, and track impact.
 
 ## Toolbox
-SQL (joins, CTEs, windows) · Python (pandas, scikit-learn) · Power BI (DAX, Power Query) · Tableau · Econometrics · Git/GitHub
+SQL (joins, CTEs, windows) · Python (pandas, scikit-learn) · Power BI (DAX, Power Query)
 
 ## Contact
 I’m looking to collaborate on data analytics and visualization projects, and connect with people to share this journey.
